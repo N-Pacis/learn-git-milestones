@@ -388,7 +388,7 @@ Row | Item | Description | Completed
 4 | 4d | What does `log` do? | `git log` command shows you the history of commits. It essentially helps you to see the project's history.
 5 | 5a | 2nd Favorite emoji | 😂
 6 | 5b | Link to `commit #2 from Github Desktop` |[commit #2 from Github Desktop](https://github.com/N-Pacis/learn-git-milestones/commit/90179b58a3fec5afc18f0e07f2c1590ab85b6249)
-7 | 6a | Full path to your working directory | `/Users/pacis/documents/courses/dig 245/classwork/learn-git-milestones`
+7 | 6a | Full path to your working directory | `/Users/pacis/Documents/Courses/DIG 245/classwork/critical-web-design/learn-git-milestones`
 8 | 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/N-Pacis/learn-git-milestones/commit/c1d0d2cf045a49e68e9ea51426903b0ca7e07a07)
 9 | 7 | 3rd Favorite emoji | ✅
 10 | 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/N-Pacis/learn-git-milestones/commit/85c311b4a69fe9e642294a50531ea9be1847253e)
