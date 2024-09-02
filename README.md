@@ -385,7 +385,7 @@ Row | Item | Description | Completed
 1 | 4a | 1st Favorite emoji | 🎉
 2 | 4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/N-Pacis/learn-git-milestones/commit/b98db80165aaaa615a5a20a5f2f3bcd141684c24)
 3 | 4c | Link to markdown tables docs |
-4 | 4d | What does `log` do? |
+4 | 4d | What does `log` do? | `git log` command shows you the history of commits. It essentially helps you to see the project's history.
 5 | 5a | 2nd Favorite emoji |
 6 | 5b | Link to `commit #2 from Github Desktop` |
 7 | 6a | Full path to your working directory |
