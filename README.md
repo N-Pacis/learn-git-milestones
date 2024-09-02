@@ -391,7 +391,7 @@ Row | Item | Description | Completed
 7 | 6a | Full path to your working directory | `/Users/pacis/documents/courses/dig 245/classwork/learn-git-milestones`
 8 | 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/N-Pacis/learn-git-milestones/commit/c1d0d2cf045a49e68e9ea51426903b0ca7e07a07)
 9 | 7 | 3rd Favorite emoji | ✅
-10 | 8 | Link to `commit #4 from VS Code` |
+10 | 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/N-Pacis/learn-git-milestones/commit/85c311b4a69fe9e642294a50531ea9be1847253e)
 11 | 9a | Link to `first-website` github.com repo page |
 12 | 9a | Link to `first-website` github.io "project site" |
 13 | 10a | What is in Owen's dev branch? | 
