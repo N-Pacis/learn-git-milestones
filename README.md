@@ -394,7 +394,7 @@ Row | Item | Description | Completed
 10 | 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/N-Pacis/learn-git-milestones/commit/85c311b4a69fe9e642294a50531ea9be1847253e)
 11 | 9a | Link to `first-website` github.com repo page | [first-website-repo](https://github.com/N-Pacis/first-website)
 12 | 9a | Link to `first-website` github.io "project site" | [deployed-website](https://n-pacis.github.io/first-website/)
-13 | 10a | What is in Owen's dev branch? | 
+13 | 10a | What is in Owen's dev branch? | There is a video named "cool-new-feature.mp4" which is a famous song named "Never Gonna Give You Up" by Rick Astley. So In short, I was rickrolled.
 14 | 10b | Link to your new branch on github.com | 
 15 | 10c | Link to your network graph | 
 16 | 10d | Link to the PR you made on a partner's github.com repo | 
